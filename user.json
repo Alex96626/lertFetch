@@ -1,0 +1,20 @@
+ 
+[
+    { 
+        "name": "Vasya",
+        "task": [0]
+    },
+    {
+        "name": "Petya",
+        "task": [1,2]
+    },
+    {
+        "name": "Alex",
+        "task": [3]
+    },
+    {
+        "name": "Danil",
+        "task": [4]
+  }
+]
+
